@@ -3,11 +3,11 @@
 }
 
 .names {
-    display: flex;
-    justify-items: space-between;
+  display: flex;
+  justify-items: space-between;
 }
 
 .image {
-    display: flex;
-    justify-content: center;
+  width: 50%;
+  margin: 0 auto;
 }
