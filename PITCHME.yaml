@@ -1,0 +1,4 @@
+layout : center-left
+theme : white
+transition : none
+theme-override : PITCHME.css
