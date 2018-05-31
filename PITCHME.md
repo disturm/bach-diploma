@@ -40,5 +40,5 @@
 #### Архитектура движка проверки
 <br />
 @div[image]
-![Graider](imgs/graider.png)
+![Graider](imgs/grader.png)
 @divend
