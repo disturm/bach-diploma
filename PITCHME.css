@@ -1,3 +1,13 @@
 .small-size li {
   font-size: 0.8em;
 }
+
+.names {
+    display: flex;
+    justify-items: space-between;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+}

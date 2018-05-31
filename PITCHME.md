@@ -1,9 +1,9 @@
 ### @size[1em](РАЗРАБОТКА ДВИЖКА ДЛЯ АВТОМАТИЧЕСКОЙ ПРОВЕРКИ КОРРЕКТНОСТИ РЕШЕНИЙ СТУДЕНТОВ НА ЯЗЫКЕ JAVASCRIPT)
 <br />
-<div style="display: flex; justify-items: space-between;">
+@div[names]
   <div>Научный руководитель: Ермакова Г.М.</div>
   <div>Исполнитель: Неволин Р.Д.</div>
-</div>
+@divend
 
 ---
 
@@ -32,8 +32,8 @@
 
 #### Архитектура платформы Ulearn
 <br />
-<div style="display: flex; justify-content: center;">
-  ![Ulearn](imgs/ulearn.png)
-</div>
+@div[image]
+![Ulearn](imgs/ulearn.png)
+@diven
 ---
 
