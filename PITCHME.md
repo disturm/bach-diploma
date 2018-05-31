@@ -34,6 +34,11 @@
 <br />
 @div[image]
 ![Ulearn](imgs/ulearn.png)
-@diven
+@divend
 ---
 
+#### Архитектура движка проверки
+<br />
+@div[image]
+![Graider](imgs/graider.png)
+@divend
