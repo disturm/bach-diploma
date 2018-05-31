@@ -30,3 +30,9 @@
 
 ---
 
+#### Архитектура платформы Ulearn
+<br />
+![Ulearn](imgs/ulearn.png)
+
+---
+
