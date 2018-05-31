@@ -54,7 +54,7 @@
 
 #### Node.js
 <br />
-Runtime окружения для JavaScipt  
+Runtime окружение для исполнения JavaScipt кода  
 Основан на движке **V8**
 
 ---
